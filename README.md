@@ -13,8 +13,6 @@ A aplicação utiliza um modelo de linguagem rodando localmente (LLaMA via Ollam
 * Python
 * Streamlit
 * Ollama
-* LLaMA 3
-* Requests
 
 ---
 
